@@ -13,6 +13,6 @@ int main() {
 
 
     cout << "Random number: " << random_number << endl;
-    assert (random_number < 0.5);    
+    assert (random_number < 0.5);
     return 0;
 }
