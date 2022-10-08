@@ -11,7 +11,6 @@ int main() {
     // generate random number between 0 and 1
     double random_number = (double) rand() / RAND_MAX;
 
-
     cout << "Random number: " << random_number << endl;
     assert (random_number < 0.5);
     return 0;
