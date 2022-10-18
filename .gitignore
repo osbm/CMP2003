@@ -33,3 +33,11 @@
 
 
 bin/
+
+*.db
+*.obj
+*.pdb
+*.log
+*.tlog
+
+*.rar
