@@ -44,3 +44,10 @@ bin/
 *.vcxproj.user
 *.ure
 *.rar
+*.exe
+*.ilk
+*.sln
+*.suo
+*.idb
+*.recipe
+*.ipch
