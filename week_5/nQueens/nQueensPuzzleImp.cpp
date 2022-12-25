@@ -95,7 +95,7 @@ int nQueensPuzzle::solutionsCount()
 
 int main()
 {
-    nQueensPuzzle queens(4);
+    nQueensPuzzle queens(8);
 
     queens.queensConfiguration(0);
     cout << "Number of Solutions: " << queens.solutionsCount() << endl;
